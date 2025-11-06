@@ -1,8 +1,5 @@
 # Data_Analysis_project (pandas)
-Got it 👍 Prasad — thanks for clarifying!
-Since your notebook mainly focuses on **basic Pandas operations, data cleaning, and filtering**, not full EDA, I’ll update the documentation accordingly (removing “Exploratory Data Analysis” mentions and keeping it focused on **data handling and manipulation**).
 
-Here’s your **revised project documentation** 👇
 
 ---
 
